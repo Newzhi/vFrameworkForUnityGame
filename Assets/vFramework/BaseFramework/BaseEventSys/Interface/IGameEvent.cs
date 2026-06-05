@@ -1,4 +1,4 @@
-namespace BaseFramework.EventBus
+namespace BaseFramework.BaseEventSys
 {
 
 //事件都需要继承这个结构来实现

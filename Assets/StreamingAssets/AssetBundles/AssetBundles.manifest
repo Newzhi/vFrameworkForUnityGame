@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 2669636435
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: test/hightail
+      Dependencies: {}
